@@ -2999,8 +2999,8 @@
         "destination": {
           "title": "Destination",
           "to": {
-            "trading-account": "Trading contract",
-            "personal-account": "Personal account",
+            "trading-account": "Contrat de trading",
+            "personal-account": "Compte personnel",
             "staking-account": "Contrat de staking NEX",
             "fees": "Honoraires"
           },
@@ -3107,8 +3107,8 @@
       "volume": "Volume",
       "pair": "Paire",
       "1d-change": "Changement sur 24h",
-      "1d-high": "24h high",
-      "1d-low": "24h low",
+      "1d-high": "Plus haut sur 24h",
+      "1d-low": "Plus bas sur 24h",
       "1d-volume": "Volume sur 24h",
       "1w-change": "Changement sur 1 semaine",
       "1w-high": "Plus haut sur 1 semaine",
@@ -3131,16 +3131,16 @@
       "3M": "3M",
       "6M": "6M"
     },
-    "search-placeholder": "Search for a market…",
+    "search-placeholder": "Rechercher un marché…",
     "individual-assets": {
-      "title": "Individual assets",
-      "header": "Individual assets listed on Nash"
+      "title": "Actifs individuels",
+      "header": "Actifs individuels cotés sur Nash"
     },
     "asset-pairs": {
-      "title": "Asset pairs",
-      "header": "All asset pairs traded on Nash Exchange"
+      "title": "Paires d'actifs",
+      "header": "Toutes les paires d'actifs négociées sur Nash Exchange"
     },
-    "no-results": "No results for this period.",
+    "no-results": "Aucun résultat pour cette période.",
     "miscellaneous": {
       "vol": "vol."
     }
